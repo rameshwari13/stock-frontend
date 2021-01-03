@@ -1,0 +1,27 @@
+
+ /* *{
+     margin: 0;
+    padding: 0;
+} */
+body{
+    
+    background-size: cover;
+    font-family: sans-serif;
+    margin-top: 0 px;
+} 
+.register{
+    width: 800px;
+    background-color: beige;
+    margin: auto;
+    color: #ffffff;
+    padding: 10px 0px 10px opx;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+}
+.main{
+    width: 800px;
+    margin: auto;
+}
+form{
+    padding: 10px;
+}

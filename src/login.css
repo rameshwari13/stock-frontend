@@ -1,0 +1,70 @@
+/* body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: azure;
+    background-size: cover;
+} */
+
+/* .login{
+    width: 280; 
+    position: absolute;
+    padding: 8 px;
+    top: 100;
+    left: 50;
+    transform: translate(-50%, -50%);
+}
+.login h1{
+    float: left;
+    font-size: 40px;
+    border-bottom: 6px aliceblue;
+    margin-bottom: 50px;
+    padding: 13px 0;
+}
+.textbox{
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 1px solid black;
+}  */
+
+
+.form-control{
+    width: 400px;
+    border: 2px solid black;
+}
+form{
+    border:black solid 2px;
+    padding: 30px;
+    margin-top: 50px;
+    margin-left: 430px;
+    margin-right: 485px;
+    color: firebrick;
+    font-weight: 600;
+    background-color: lightgrey;
+}
+.btn
+{
+    margin-top: 15px;
+    margin-left: 10px ;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 10px;
+    position: relative;
+}
+h1{
+    margin-left: 500px;
+    margin-bottom: 30px;
+    /* text-align: center; */
+    color: red;
+    text-shadow: 2px 2px darkgrey;
+}
+
+/* .link{
+    color: green;
+    text-decoration: underline;
+    padding-left: 150px;
+    font-weight: 500;
+/* } */

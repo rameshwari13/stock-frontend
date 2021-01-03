@@ -1,0 +1,31 @@
+/* body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: azure;
+    background-size: cover;
+} */
+
+.login{
+    width: 280; 
+    position: absolute;
+    padding: 8 px;
+    top: 100;
+    left: 50;
+    transform: translate(-50%, -50%);
+}
+.login h1{
+    float: left;
+    font-size: 40px;
+    border-bottom: 6px aliceblue;
+    margin-bottom: 50px;
+    padding: 13px 0;
+}
+.textbox{
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 1px solid black;
+}
